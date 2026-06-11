@@ -1,2 +1,0 @@
-# moko
-Hikayelerle öğreten arkadaş
